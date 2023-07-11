@@ -1,0 +1,8 @@
+{
+  "name": "prettier-unable-to-find-pkg",
+  "prettier": "prettier-config",
+  "dependencies": {
+    "prettier": "^3.0.0",
+    "prettier-config": "file:./prettier-config"
+  }
+}

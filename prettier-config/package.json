@@ -1,0 +1,7 @@
+{
+  "name": "prettier-config",
+  "main": "prettierConfig.json",
+  "dependencies": {
+    "prettier-plugin-tailwindcss": "^0.3.0"
+  }
+}
